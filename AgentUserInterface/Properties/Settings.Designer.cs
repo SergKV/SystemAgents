@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace AgentsUi.Properties
+namespace AgentUserInterface.Properties
 {
 
 
